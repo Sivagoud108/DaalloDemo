@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/offers"
+            android:icon="@drawable/baseline_card_giftcard_24"
+            android:title="Offers">
+        </item>
+        <item android:id="@+id/booknow"
+            android:icon="@drawable/baseline_menu_book_24"
+            android:title="Book Now">
+        </item>
+        <item android:id="@+id/map"
+            android:icon="@drawable/baseline_map_24"
+            android:title="Destinations">
+        </item>
+
+    </group>
+
+</menu>
